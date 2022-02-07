@@ -1,0 +1,2 @@
+bin>iverilog -o output.vpp input.v testBench.v
+bin>vvp output.vpp
